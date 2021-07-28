@@ -8,8 +8,8 @@ Hi, I'm João Victor. Front-end developer and I'm looking for more experience in
 
 If you want to interact with me, get in touch with Linkedin, Instagram or WhatsApp below.
 
-<a href="www.linkedin.com/in/joao-victor-developer" target="_blank">
-  <img align="center" alt="joao-victor-linkedin" width="40" src="https://image.flaticon.com/icons/png/512/124/124011.png" style="max-width:100%;">
+<a href="https://www.linkedin.com/in/joao-victor-developer" target="_blank">
+  <img align="center" alt="linkedin" width="40" src="https://image.flaticon.com/icons/png/512/124/124011.png" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/joaovictormartinsss/" target="_blank">
   <img  align="center"  src="https://image.flaticon.com/icons/png/512/174/174855.png" width='40' style="max-width:100%;"/>
