@@ -29,9 +29,10 @@ Olá, sou João Victor. Desenvolvedor front-end e estou procurando mais experiê
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictormartin)](https://github.com/joaovictormartin/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictormartin&show_icons=true&theme=radical)
-
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictormartin&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=joaovictormartin&show_icons=true&theme=dracula"/>
+</div>
 
 
 <hr />
