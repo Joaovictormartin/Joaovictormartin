@@ -29,7 +29,13 @@ Sou bacharel em Sistema de Informação pela Associação Educacional Dom Bosco 
 
 <h3 align="center">Entre em contato:</h3>
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/-je.parizotto@gmail.com-fd428d?style=for-the-badge&logo=mention&logoColor=white"> 
-  <a href="https://linkedin.com/in/jessicaparizotto" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-fd428d?style=for-the-  badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/dev.humanas" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Instagram-fd428d?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:devjoaovictor10@gmail.com" target="blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-devjoaovictor10@gmail.com-007ee5?style=for-the-badge&logo=mention&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/joao-victor-developer" target="blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-007bb6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5524998413564" target="blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-34af23?style=for-the-badge&logo=whatsApp&logoColor=white"/>
+  </a>
 </p>
