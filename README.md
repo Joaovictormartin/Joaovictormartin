@@ -29,13 +29,13 @@ Sou bacharel em Sistema de Informação pela Associação Educacional Dom Bosco 
 
 <h3 align="center">Entre em contato:</h3>
 <p align="center">
-  <a href="mailto:devjoaovictor10@gmail.com" target="blank">
+  <a href="mailto:devjoaovictor10@gmail.com" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-devjoaovictor10@gmail.com-007ee5?style=for-the-badge&logo=mention&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/joao-victor-developer" target="blank">
+  <a href="https://www.linkedin.com/in/joao-victor-developer" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-007bb6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5524998413564" target="blank">
+  <a href="https://api.whatsapp.com/send?phone=5524998413564" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-34af23?style=for-the-badge&logo=whatsApp&logoColor=white"/>
   </a>
 </p>
