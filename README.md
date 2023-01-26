@@ -1,41 +1,35 @@
-- Olá, sou João Victor
-- 💪💪 Tenho interesse em evoluir profissionalmente como desenvolvedor.
-- 📚💻 Atualmente, estou aprendendo HTML, CSS, Javascript, Typescript, ReactJS e React Native.
+<h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, eu sou o João Victor </h1>
 
-# Conecte-se comigo:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=1000&lines=Sou+Dev+Front-end+j%C3%A1+formado%2C;com+foco+no+desenvolvimento+mobile.)](https://git.io/typing-svg)
 
-Olá, sou João Victor. Desenvolvedor front-end e estou procurando mais experiência na área de front-end. Se quiser interagir comigo, entre em contato no Linkedin, Instagram ou WhatsApp abaixo.
+Sou bacharel em Sistema de Informação pela Associação Educacional Dom Bosco • AEDB em 2021, trabalho com desenvolvimento, ReactJS e React Native. Atualmente estou focado em desenvolvimento de aplicativos, estou aberto a analisar toda e qualquer proposta que me proporcione conhecimento e experiência de mercado. Tenho conhecimentos aprofundados em ReactJS, CSS, Styled-Components, SASS, Javascript, HTML, SCRUM, KANBAN, MySQL, MongoDB, Firebase, API’s RestFull e React Native.
 
-<a href="https://www.linkedin.com/in/joao-victor-developer" target="_blank">
-  <img align="center" alt="linkedin" width="40" src="https://image.flaticon.com/icons/png/512/124/124011.png" style="max-width:100%;">
-</a>
-<span>⠀</span> 
-<a href="https://www.instagram.com/joaovictormartinsss/" target="_blank">
-  <img  align="center"  src="https://image.flaticon.com/icons/png/512/174/174855.png" width='40' style="max-width:100%;"/>
-</a>
-<span>⠀</span>
-<a href="https://api.whatsapp.com/send?phone=5524998413564&text=Ol%C3%A1.%20venho%20do%20github.%20Gostaria%20de%20falar%20com%20voc%C3%AA!" target="_blank" >
-  <img  align="center" src="https://image.flaticon.com/icons/png/512/220/220236.png" width='40' style="max-width:100%;"/> 
-</a>
+*******************
 
-# My Skills
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
-
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictormartin&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictormartin&show_icons=true&theme=dracula"/>
+<div display="flex" align="center">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaovictormartin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaovictormartin&layout=compact&langs_count=8&theme=radical"/>
 </div>
+	
+<h3 align="center">Linguagens e Ferramentas:</h3>
+<p align="center">
+  <img height="40" width="40" src="https://cdn.simpleicons.org/react"/> 
+  <img height="40" width="40" src="https://cdn.simpleicons.org/css3"/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/styledComponents"/>  
+  <img height="40" width="40" src="https://cdn.simpleicons.org/sass"/> 
+  <img height="40" width="40" src="https://cdn.simpleicons.org/javascript" /> 
+  <img height="40" width="40" src="https://cdn.simpleicons.org/html5"/> 
+  <img height="40" width="40" src="https://cdn.simpleicons.org/mongoDB"/> 
+  <img height="40" width="40" src="https://cdn.simpleicons.org/fireBase"/> 
+  <img height="40" width="40" src="https://cdn.simpleicons.org/axios"/> 
+  <img height="40" width="40" src="https://cdn.simpleicons.org/react"/>
+</p>
 
+*******************
 
-<hr />
-
-
-#### Que o futuro nos reserve dias bons!
+<h3 align="center">Entre em contato:</h3>
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/-je.parizotto@gmail.com-fd428d?style=for-the-badge&logo=mention&logoColor=white"> 
+  <a href="https://linkedin.com/in/jessicaparizotto" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-fd428d?style=for-the-  badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/dev.humanas" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Instagram-fd428d?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
