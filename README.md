@@ -23,6 +23,8 @@ Sou bacharel em Sistema de Informação pela Associação Educacional Dom Bosco 
   <img height="40" width="40" src="https://cdn.simpleicons.org/fireBase"/> 
   <img height="40" width="40" src="https://cdn.simpleicons.org/axios"/> 
   <img height="40" width="40" src="https://cdn.simpleicons.org/react"/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss"/>
+	
 </p>
 
 *******************
